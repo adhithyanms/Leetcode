@@ -18,7 +18,7 @@ class Solution {
             size++;
             current=current.next;
         }
-        k=k%size;
+        k=(size-k)%size;
         while(k>=1)
         { ListNode tem=head;
           ListNode pre=null;
