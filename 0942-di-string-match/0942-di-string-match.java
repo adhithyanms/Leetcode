@@ -10,12 +10,7 @@ class Solution {
                 arr[index++]=D--;
             }
         }
-        if(s.charAt(n-1)=='I'){
-            arr[n]=I;
-        }
-        else{
-            arr[n]=D;
-        }
+        arr[n]=I;
         return arr;
     }
 }
