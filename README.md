@@ -18,6 +18,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/adhithyanms/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/adhithyanms/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/adhithyanms/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
