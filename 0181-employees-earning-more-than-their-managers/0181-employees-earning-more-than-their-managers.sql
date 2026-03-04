@@ -1,1 +1,1 @@
-select E.name as Employee from Employee E join Employee M  where E.managerId=M.id and E.salary>M.salary;
+select e.name as Employee from Employee  e join Employee  m on e.managerId= m.id and e.salary>m.salary;
