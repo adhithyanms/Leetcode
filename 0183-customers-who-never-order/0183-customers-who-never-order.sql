@@ -1,1 +1,1 @@
-select Customers.name as Customers from Customers Left join Orders on Orders.customerId=Customers.id where Orders.customerId is Null ;
+select c.Customers from (select id,name as Customers from Customers) c  left join (select id , customerId from Orders) o  on c.id = o .customerId where o.customerId is  null;
