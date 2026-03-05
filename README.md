@@ -23,6 +23,7 @@ Solution for Leetcode Problem
 | [0197-rising-temperature](https://github.com/adhithyanms/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/adhithyanms/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/adhithyanms/Leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/adhithyanms/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
