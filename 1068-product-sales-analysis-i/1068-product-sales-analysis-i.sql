@@ -1,1 +1,1 @@
-SELECT Product.product_name,Sales.year,Sales.price FROM Product,Sales WHERE Product.Product_id=Sales.Product_id ;
+select p.product_name as product_name  ,s.year as year , s.price as price from Product p Left Join Sales s  on s.product_id = p.product_id where s.product_id is not null;
