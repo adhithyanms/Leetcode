@@ -32,6 +32,7 @@ Solution for Leetcode Problem
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adhithyanms/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/adhithyanms/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/adhithyanms/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/adhithyanms/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
