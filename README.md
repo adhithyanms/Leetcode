@@ -31,6 +31,7 @@ Solution for Leetcode Problem
 | [0627-swap-sex-of-employees](https://github.com/adhithyanms/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adhithyanms/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/adhithyanms/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/adhithyanms/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
