@@ -28,6 +28,7 @@ Solution for Leetcode Problem
 | [0607-sales-person](https://github.com/adhithyanms/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/adhithyanms/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/adhithyanms/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/adhithyanms/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
