@@ -29,6 +29,7 @@ Solution for Leetcode Problem
 | [0610-triangle-judgement](https://github.com/adhithyanms/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/adhithyanms/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/adhithyanms/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adhithyanms/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
