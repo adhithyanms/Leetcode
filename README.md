@@ -25,6 +25,7 @@ Solution for Leetcode Problem
 | [0577-employee-bonus](https://github.com/adhithyanms/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adhithyanms/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/adhithyanms/Leetcode/tree/main/0595-big-countries/) | Easy |
+| [0607-sales-person](https://github.com/adhithyanms/Leetcode/tree/main/0607-sales-person/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
