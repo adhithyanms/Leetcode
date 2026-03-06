@@ -1,1 +1,7 @@
- select product_id,product_name from Product where product_id in (select product_id from Sales  group by product_id having min(sale_date)>='2019-01-01' and max(sale_date)<='2019-03-31' )
+select p.product_id , p.product_name 
+from Product p 
+Join Sales s 
+on p.product_id = s.product_id 
+group by p.product_id 
+having min(s.sale_date) Between '2019-01-01'  And '2019-03-31'
+and max(s.sale_date) Between '2019-01-01'  And '2019-03-31';
