@@ -38,6 +38,7 @@ Solution for Leetcode Problem
 | [1251-average-selling-price](https://github.com/adhithyanms/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/adhithyanms/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/adhithyanms/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adhithyanms/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
