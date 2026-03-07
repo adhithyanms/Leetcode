@@ -39,6 +39,7 @@ Solution for Leetcode Problem
 | [1280-students-and-examinations](https://github.com/adhithyanms/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/adhithyanms/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adhithyanms/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1407-top-travellers](https://github.com/adhithyanms/Leetcode/tree/main/1407-top-travellers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
