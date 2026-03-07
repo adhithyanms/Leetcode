@@ -49,6 +49,7 @@ Solution for Leetcode Problem
 | [1693-daily-leads-and-partners](https://github.com/adhithyanms/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/adhithyanms/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adhithyanms/Leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/adhithyanms/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
