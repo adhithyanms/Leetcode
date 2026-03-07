@@ -46,6 +46,7 @@ Solution for Leetcode Problem
 | [1633-percentage-of-users-attended-a-contest](https://github.com/adhithyanms/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/adhithyanms/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/adhithyanms/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/adhithyanms/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
