@@ -69,6 +69,7 @@ Solution for Leetcode Problem
 | [0008-string-to-integer-atoi](https://github.com/adhithyanms/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/adhithyanms/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adhithyanms/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -102,4 +103,9 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
