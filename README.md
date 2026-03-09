@@ -6,6 +6,7 @@ Solution for Leetcode Problem
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
@@ -64,4 +65,12 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adhithyanms/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adhithyanms/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
