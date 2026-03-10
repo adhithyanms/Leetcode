@@ -13,6 +13,7 @@ Solution for Leetcode Problem
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
 ## Backtracking
@@ -142,6 +143,7 @@ Solution for Leetcode Problem
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -151,4 +153,5 @@ Solution for Leetcode Problem
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
