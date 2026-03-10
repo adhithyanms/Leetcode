@@ -90,6 +90,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sorting
@@ -175,6 +176,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
