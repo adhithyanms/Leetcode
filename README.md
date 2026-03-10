@@ -75,6 +75,7 @@ Solution for Leetcode Problem
 | [0065-valid-number](https://github.com/adhithyanms/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0214-shortest-palindrome](https://github.com/adhithyanms/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0686-repeated-string-match](https://github.com/adhithyanms/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adhithyanms/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adhithyanms/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Two Pointers
@@ -95,6 +96,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,5 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
