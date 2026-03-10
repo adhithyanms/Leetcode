@@ -78,6 +78,7 @@ Solution for Leetcode Problem
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/adhithyanms/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0214-shortest-palindrome](https://github.com/adhithyanms/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0686-repeated-string-match](https://github.com/adhithyanms/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -121,6 +122,7 @@ Solution for Leetcode Problem
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
