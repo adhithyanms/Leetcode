@@ -16,6 +16,7 @@ Solution for Leetcode Problem
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
 ## Backtracking
@@ -100,6 +101,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ Solution for Leetcode Problem
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
