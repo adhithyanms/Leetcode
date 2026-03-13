@@ -24,6 +24,7 @@ Solution for Leetcode Problem
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Database
@@ -79,6 +80,7 @@ Solution for Leetcode Problem
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/adhithyanms/Leetcode/tree/main/0065-valid-number/) | Hard |
@@ -111,6 +113,7 @@ Solution for Leetcode Problem
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 ## Greedy
