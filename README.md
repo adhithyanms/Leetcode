@@ -85,6 +85,7 @@ Solution for Leetcode Problem
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/adhithyanms/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0179-largest-number](https://github.com/adhithyanms/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0214-shortest-palindrome](https://github.com/adhithyanms/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -131,6 +132,7 @@ Solution for Leetcode Problem
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Math
@@ -183,6 +185,7 @@ Solution for Leetcode Problem
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0901-online-stock-span](https://github.com/adhithyanms/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -205,6 +208,7 @@ Solution for Leetcode Problem
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
