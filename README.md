@@ -102,6 +102,7 @@ Solution for Leetcode Problem
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/adhithyanms/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/adhithyanms/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Solution for Leetcode Problem
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Solution for Leetcode Problem
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ Solution for Leetcode Problem
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +245,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
