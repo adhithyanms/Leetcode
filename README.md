@@ -19,6 +19,7 @@ Solution for Leetcode Problem
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -96,6 +97,7 @@ Solution for Leetcode Problem
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0686-repeated-string-match](https://github.com/adhithyanms/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adhithyanms/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -120,6 +122,7 @@ Solution for Leetcode Problem
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Dynamic Programming
@@ -129,6 +132,7 @@ Solution for Leetcode Problem
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -152,6 +156,7 @@ Solution for Leetcode Problem
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -230,6 +235,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +255,7 @@ Solution for Leetcode Problem
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
