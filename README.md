@@ -11,6 +11,7 @@ Solution for Leetcode Problem
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0179-largest-number](https://github.com/adhithyanms/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -122,6 +123,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Greedy
