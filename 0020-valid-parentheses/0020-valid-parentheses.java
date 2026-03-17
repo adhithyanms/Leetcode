@@ -1,5 +1,4 @@
 class Solution {
-    // private boolean[] ans = new boolean[]
     public boolean isValid(String s) {
         Stack<Character> stack=new Stack<>();
         for(char c:s.toCharArray())
@@ -22,6 +21,5 @@ class Solution {
             }
         }
             return stack.isEmpty();
-
     }
 }
