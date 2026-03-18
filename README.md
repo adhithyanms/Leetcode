@@ -20,6 +20,7 @@ Solution for Leetcode Problem
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -116,6 +117,7 @@ Solution for Leetcode Problem
 | [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Sorting
@@ -141,6 +143,7 @@ Solution for Leetcode Problem
 | [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -270,4 +273,8 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
