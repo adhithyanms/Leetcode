@@ -103,6 +103,7 @@ Solution for Leetcode Problem
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/adhithyanms/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -150,6 +151,7 @@ Solution for Leetcode Problem
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
@@ -160,6 +162,7 @@ Solution for Leetcode Problem
 | [0179-largest-number](https://github.com/adhithyanms/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -211,6 +214,7 @@ Solution for Leetcode Problem
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/adhithyanms/Leetcode/tree/main/0901-online-stock-span/) | Medium |
