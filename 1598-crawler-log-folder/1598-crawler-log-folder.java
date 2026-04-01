@@ -1,19 +1,21 @@
 class Solution {
     public int minOperations(String[] logs) {
-         int count=0;
-         for(int i=0;i<logs.length;i++){
-            if(logs[i].equals("../")){
-                 if(count>0){
-                    count--;
-                 }
-            }
-            else if(logs[i].equals("./")){
+        Stack<String> stack = new Stack<>();
+
+        for (String log : logs) {
+            if (log.equals("../")) {
+                if (!stack.isEmpty()) {
+                    stack.pop();
+                }
+            } 
+            else if (log.equals("./")) {
                 continue;
+            } 
+            else {
+                stack.push(log);
             }
-            else{
-                count++;
-            }
-         }
-         return count;
+        }
+
+        return stack.size();
     }
 }
