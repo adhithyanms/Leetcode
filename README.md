@@ -29,6 +29,7 @@ Solution for Leetcode Problem
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/adhithyanms/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
@@ -197,6 +198,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ Solution for Leetcode Problem
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -304,6 +307,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
