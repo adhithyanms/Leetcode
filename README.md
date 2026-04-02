@@ -190,6 +190,7 @@ Solution for Leetcode Problem
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
@@ -256,11 +257,13 @@ Solution for Leetcode Problem
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
