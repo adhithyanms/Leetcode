@@ -8,6 +8,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0015-3sum](https://github.com/adhithyanms/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/adhithyanms/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0035-search-insert-position](https://github.com/adhithyanms/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -299,6 +300,7 @@ Solution for Leetcode Problem
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/adhithyanms/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Prefix Sum
