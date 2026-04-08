@@ -11,6 +11,7 @@ Solution for Leetcode Problem
 | [0035-search-insert-position](https://github.com/adhithyanms/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/adhithyanms/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/adhithyanms/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/adhithyanms/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -88,6 +89,7 @@ Solution for Leetcode Problem
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/adhithyanms/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ Solution for Leetcode Problem
 | [0012-integer-to-roman](https://github.com/adhithyanms/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/adhithyanms/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adhithyanms/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Simulation
