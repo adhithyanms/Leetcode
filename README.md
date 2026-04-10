@@ -340,10 +340,12 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adhithyanms/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adhithyanms/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,4 +354,5 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/adhithyanms/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
