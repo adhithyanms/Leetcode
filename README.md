@@ -34,6 +34,7 @@ Solution for Leetcode Problem
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/adhithyanms/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/adhithyanms/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
