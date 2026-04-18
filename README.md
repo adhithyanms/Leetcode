@@ -212,6 +212,7 @@ Solution for Leetcode Problem
 | [0150-evaluate-reverse-polish-notation](https://github.com/adhithyanms/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0877-stone-game](https://github.com/adhithyanms/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/adhithyanms/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
