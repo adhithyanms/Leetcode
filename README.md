@@ -45,6 +45,7 @@ Solution for Leetcode Problem
 | [2164-sort-even-and-odd-indices-independently](https://github.com/adhithyanms/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adhithyanms/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
@@ -155,6 +156,7 @@ Solution for Leetcode Problem
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ Solution for Leetcode Problem
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adhithyanms/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -342,6 +345,7 @@ Solution for Leetcode Problem
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
