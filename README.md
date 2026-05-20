@@ -47,6 +47,7 @@ Solution for Leetcode Problem
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adhithyanms/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adhithyanms/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -218,6 +219,7 @@ Solution for Leetcode Problem
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adhithyanms/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -314,6 +316,7 @@ Solution for Leetcode Problem
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/adhithyanms/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/adhithyanms/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
