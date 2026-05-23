@@ -40,6 +40,7 @@ Solution for Leetcode Problem
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adhithyanms/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/adhithyanms/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/adhithyanms/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
