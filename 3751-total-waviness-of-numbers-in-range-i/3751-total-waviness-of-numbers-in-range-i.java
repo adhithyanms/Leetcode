@@ -1,6 +1,6 @@
 class Solution {
 
-    private int waviness(int x) {
+    public int waviness(int x) {
         String s = Integer.toString(x);
 
         int cnt = 0;
