@@ -132,6 +132,7 @@ Solution for Leetcode Problem
 | [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0214-shortest-palindrome](https://github.com/adhithyanms/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/adhithyanms/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -192,6 +193,7 @@ Solution for Leetcode Problem
 | [0045-jump-game-ii](https://github.com/adhithyanms/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/adhithyanms/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -245,6 +247,7 @@ Solution for Leetcode Problem
 | [0048-rotate-image](https://github.com/adhithyanms/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adhithyanms/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0877-stone-game](https://github.com/adhithyanms/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adhithyanms/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -324,6 +327,7 @@ Solution for Leetcode Problem
 | [0002-add-two-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/adhithyanms/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,4 +425,8 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhithyanms/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
