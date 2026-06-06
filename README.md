@@ -52,6 +52,7 @@ Solution for Leetcode Problem
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/adhithyanms/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/adhithyanms/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -373,6 +374,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/adhithyanms/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
