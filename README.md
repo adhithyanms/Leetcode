@@ -29,6 +29,7 @@ Solution for Leetcode Problem
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0648-replace-words](https://github.com/adhithyanms/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -391,6 +392,7 @@ Solution for Leetcode Problem
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
