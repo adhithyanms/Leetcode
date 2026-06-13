@@ -45,6 +45,7 @@ Solution for Leetcode Problem
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adhithyanms/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/adhithyanms/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -250,6 +251,7 @@ Solution for Leetcode Problem
 | [0648-replace-words](https://github.com/adhithyanms/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -387,12 +389,14 @@ Solution for Leetcode Problem
 | [0035-search-insert-position](https://github.com/adhithyanms/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhithyanms/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/adhithyanms/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Enumeration
@@ -414,6 +418,7 @@ Solution for Leetcode Problem
 | [0424-longest-repeating-character-replacement](https://github.com/adhithyanms/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
