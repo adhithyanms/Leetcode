@@ -1,31 +1,31 @@
 class Solution {
     public String minWindow(String s, String t) {
-     int Tset[]=new int[128];
-     for(char c:t.toCharArray()){
-        Tset[c]++;
-     }
-     int left=0;
-     int minLength=Integer.MAX_VALUE;
-     String ans="";
-     int count=t.length();
-     char c[]=s.toCharArray();
-     for(int right=0;right<c.length;right++){
-        if(Tset[c[right]]>0){
-           count--;
+        int left = 0;
+        int minLength = Integer.MAX_VALUE;
+        String ans = "";
+        int[] Freq = new int[128];
+        for (char c : t.toCharArray()) {
+            Freq[c]++;
         }
-        Tset[c[right]]--;
-        while(count==0){
-            if(right-left+1<minLength){
-                ans=s.substring(left,right+1);
-                minLength=right-left+1;
+        char[] c = s.toCharArray();
+        int count = t.length();
+        for (int right = 0; right < s.length(); right++) {
+            if (Freq[c[right]] > 0) {
+                count--;
             }
-            Tset[c[left]]++;
-            if(Tset[c[left]]>0){
-                count++;
+            Freq[c[right]]--;
+            while (count == 0) {
+                if (right - left + 1 < minLength) {
+                    ans = s.substring(left, right+1);
+                    minLength = right - left + 1;
+                }
+                Freq[c[left]]++;
+                if(Freq[c[left]]>0){
+                    count++;
+                }
+                left++;
             }
-           left++;
         }
-     }
-     return ans;
+        return ans;
     }
 }
