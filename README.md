@@ -180,6 +180,7 @@ Solution for Leetcode Problem
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
@@ -347,6 +348,7 @@ Solution for Leetcode Problem
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
