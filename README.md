@@ -159,6 +159,7 @@ Solution for Leetcode Problem
 | [0856-score-of-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/adhithyanms/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adhithyanms/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/adhithyanms/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
@@ -258,6 +259,7 @@ Solution for Leetcode Problem
 | [0648-replace-words](https://github.com/adhithyanms/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/adhithyanms/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adhithyanms/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/adhithyanms/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -395,6 +397,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/adhithyanms/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/adhithyanms/Leetcode/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
