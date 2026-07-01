@@ -1,29 +1,31 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> ans =new ArrayList<>();
-        int pFreq[]=new int[256];
-        int sFreq[]=new int[256];
-        int left=0,len=0;
-        for(int i=0;i<p.length();i++){
-            pFreq[p.charAt(i)-'a']++;
+        int pFreq[] = new int[26];
+        int sFreq[] = new int[26];
+        for(char c : p.toCharArray()){
+            pFreq[c-'a']++;
         }
-        for(int right=0;right<s.length();right++){
+        List<Integer> ans = new ArrayList<>();
+        int left = 0;
+        for(int right = 0 ;right<s.length();right++){
+            int len = right-left+1;
             sFreq[s.charAt(right)-'a']++;
-            len=right-left+1;
             while(len>p.length()){
-                sFreq[s.charAt(left)-'a']--;
-                left++;
-                len=right-left+1;
+                sFreq[s.charAt(left++)-'a']--;
+                len = right-left+1;
             }
-            if(isAnagrams(sFreq,pFreq))ans.add(left);
+            if(isAnagram(pFreq , sFreq)){
+                ans.add(left);
+            }
         }
         return ans;
     }
-    public boolean isAnagrams(int[] sFreq,int[] pFreq){
-        for(int i=0;i<256;i++){
-            if(sFreq[i]!=pFreq[i])return false;
+    static boolean isAnagram(int[]pFreq , int[]sFreq){
+        for(int i = 0 ;i<26;i++){
+            if(pFreq[i]!=sFreq[i]){
+                return false;
+            }
         }
         return true;
     }
-
 }
