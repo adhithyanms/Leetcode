@@ -50,6 +50,7 @@ Solution for Leetcode Problem
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adhithyanms/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adhithyanms/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/adhithyanms/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adhithyanms/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -287,6 +288,7 @@ Solution for Leetcode Problem
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0877-stone-game](https://github.com/adhithyanms/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adhithyanms/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adhithyanms/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/adhithyanms/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -295,6 +297,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/adhithyanms/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/adhithyanms/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/adhithyanms/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -372,6 +375,7 @@ Solution for Leetcode Problem
 | [0024-swap-nodes-in-pairs](https://github.com/adhithyanms/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +437,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
