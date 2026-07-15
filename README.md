@@ -43,6 +43,7 @@ Solution for Leetcode Problem
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -407,6 +408,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Bucket Sort
@@ -447,6 +449,7 @@ Solution for Leetcode Problem
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -460,6 +463,7 @@ Solution for Leetcode Problem
 | [0438-find-all-anagrams-in-a-string](https://github.com/adhithyanms/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adhithyanms/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adhithyanms/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -467,6 +471,7 @@ Solution for Leetcode Problem
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -513,4 +518,8 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adhithyanms/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
