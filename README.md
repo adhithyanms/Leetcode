@@ -66,6 +66,7 @@ Solution for Leetcode Problem
 | [2553-separate-the-digits-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/adhithyanms/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
@@ -410,6 +411,7 @@ Solution for Leetcode Problem
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -453,6 +455,7 @@ Solution for Leetcode Problem
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,12 +470,14 @@ Solution for Leetcode Problem
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adhithyanms/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,4 +527,5 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 <!---LeetCode Topics End-->
