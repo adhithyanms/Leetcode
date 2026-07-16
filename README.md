@@ -196,6 +196,7 @@ Solution for Leetcode Problem
 | [0165-compare-version-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/adhithyanms/Leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhithyanms/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adhithyanms/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -388,6 +389,7 @@ Solution for Leetcode Problem
 | [0160-intersection-of-two-linked-lists](https://github.com/adhithyanms/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/adhithyanms/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
