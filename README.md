@@ -80,6 +80,7 @@ Solution for Leetcode Problem
 | [0039-combination-sum](https://github.com/adhithyanms/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adhithyanms/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ Solution for Leetcode Problem
 | [0214-shortest-palindrome](https://github.com/adhithyanms/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/adhithyanms/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/adhithyanms/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -510,6 +512,7 @@ Solution for Leetcode Problem
 | [0110-balanced-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +523,7 @@ Solution for Leetcode Problem
 | [0200-number-of-islands](https://github.com/adhithyanms/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +540,7 @@ Solution for Leetcode Problem
 | [0110-balanced-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
