@@ -386,6 +386,7 @@ Solution for Leetcode Problem
 | [0092-reverse-linked-list-ii](https://github.com/adhithyanms/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/adhithyanms/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/adhithyanms/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/adhithyanms/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
@@ -394,6 +395,7 @@ Solution for Leetcode Problem
 | [0002-add-two-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/adhithyanms/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/adhithyanms/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/adhithyanms/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/adhithyanms/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
