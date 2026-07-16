@@ -513,6 +513,7 @@ Solution for Leetcode Problem
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,6 +525,7 @@ Solution for Leetcode Problem
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +543,7 @@ Solution for Leetcode Problem
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,4 +565,8 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
