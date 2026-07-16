@@ -16,18 +16,22 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode prev = dummy;
-        for(int i = 1;i<left;i++){
+        for(int i = 1 ;i<left;i++){
             prev = prev.next;
         }
-        ListNode start = prev.next;
-        ListNode ans = reverse(start , right-left+1);
+        ListNode startNode = prev.next ; 
+        ListNode ans = reverse(startNode , right-left+1);
         prev.next = ans;
         return dummy.next;
     }
-    public static ListNode reverse(ListNode head , int index){
-        if(head == null || head.next == null)return head;
-        ListNode current = head,prev = null;
-        while((index-->0) && current!=null){
+
+    public static ListNode reverse(ListNode head , int iteration){
+        if(head == null || head.next == null){
+            return head;
+        }
+        ListNode prev = null;
+        ListNode current = head;
+        while((iteration-->0) && current!=null){
             ListNode nextNode = current.next;
             current.next = prev;
             prev = current;
