@@ -300,6 +300,7 @@ Solution for Leetcode Problem
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0877-stone-game](https://github.com/adhithyanms/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adhithyanms/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -390,6 +391,7 @@ Solution for Leetcode Problem
 | [0203-remove-linked-list-elements](https://github.com/adhithyanms/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adhithyanms/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
