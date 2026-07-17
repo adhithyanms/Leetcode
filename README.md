@@ -83,6 +83,7 @@ Solution for Leetcode Problem
 | [0046-permutations](https://github.com/adhithyanms/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/adhithyanms/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/adhithyanms/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@ Solution for Leetcode Problem
 | [0856-score-of-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adhithyanms/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/adhithyanms/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adhithyanms/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -529,6 +531,7 @@ Solution for Leetcode Problem
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -546,6 +549,7 @@ Solution for Leetcode Problem
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +583,7 @@ Solution for Leetcode Problem
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
