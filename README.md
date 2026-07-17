@@ -158,6 +158,7 @@ Solution for Leetcode Problem
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/adhithyanms/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/adhithyanms/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/adhithyanms/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -382,6 +383,7 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/adhithyanms/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0901-online-stock-span](https://github.com/adhithyanms/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -530,6 +532,7 @@ Solution for Leetcode Problem
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -551,6 +554,7 @@ Solution for Leetcode Problem
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -565,6 +569,7 @@ Solution for Leetcode Problem
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adhithyanms/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/adhithyanms/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -586,6 +591,7 @@ Solution for Leetcode Problem
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/adhithyanms/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
