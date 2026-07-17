@@ -532,6 +532,7 @@ Solution for Leetcode Problem
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,6 +551,7 @@ Solution for Leetcode Problem
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +586,7 @@ Solution for Leetcode Problem
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,4 +618,5 @@ Solution for Leetcode Problem
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
