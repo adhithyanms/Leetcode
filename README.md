@@ -38,6 +38,7 @@ Solution for Leetcode Problem
 | [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0648-replace-words](https://github.com/adhithyanms/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/adhithyanms/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/adhithyanms/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/adhithyanms/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -136,6 +137,7 @@ Solution for Leetcode Problem
 | [0073-set-matrix-zeroes](https://github.com/adhithyanms/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/adhithyanms/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhithyanms/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/adhithyanms/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhithyanms/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -516,6 +518,7 @@ Solution for Leetcode Problem
 | [0128-longest-consecutive-sequence](https://github.com/adhithyanms/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/adhithyanms/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/adhithyanms/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/adhithyanms/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -563,6 +566,7 @@ Solution for Leetcode Problem
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/adhithyanms/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/adhithyanms/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/adhithyanms/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -580,6 +584,7 @@ Solution for Leetcode Problem
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/adhithyanms/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/adhithyanms/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/adhithyanms/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
