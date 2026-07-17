@@ -512,6 +512,7 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adhithyanms/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/adhithyanms/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +560,7 @@ Solution for Leetcode Problem
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/adhithyanms/Leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +573,7 @@ Solution for Leetcode Problem
 | [0226-invert-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adhithyanms/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/adhithyanms/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,4 +632,8 @@ Solution for Leetcode Problem
 | [0450-delete-node-in-a-bst](https://github.com/adhithyanms/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adhithyanms/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adhithyanms/Leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/adhithyanms/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
