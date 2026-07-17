@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
-    int sum=0;
+    int sum = 0;
+
     public int sumNumbers(TreeNode root) {
-        helper(root,0);
+        helper(root, 0);
         return sum;
     }
-    void helper(TreeNode root,int path){
-        if(root==null)return;
-        path=path*10+root.val;
-        if(root.left==null && root.right==null){
-            sum+=path;
+
+    public void helper(TreeNode root, int path) {
+        if (root == null) {
+            return;
         }
-        helper(root.left,path);
-        helper(root.right,path);
+        path = path * 10 + root.val;
+        if (root.left == null && root.right == null) {
+            sum += path;
+        }
+        helper(root.left, path);
+        helper(root.right, path);
     }
 }
