@@ -16,24 +16,24 @@
 class Solution {
     public List<Integer> largestValues(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
-        if(root==null)return ans;
+        if(root == null)return ans;
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        queue.offer(root);
         while(!queue.isEmpty()){
-            int maxValue=Integer.MIN_VALUE;
             int size = queue.size();
-            for(int i=0;i<size;i++){
+            int maxValue = Integer.MIN_VALUE;
+            for(int i = 0;i<size;i++){
                 TreeNode current = queue.poll();
-                maxValue=Math.max(maxValue,current.val);
+                maxValue = Math.max(maxValue , current.val);
                 if(current.left!=null){
-                    queue.add(current.left);
+                    queue.offer(current.left);
                 }
                 if(current.right!=null){
-                    queue.add(current.right);
+                    queue.offer(current.right);
                 }
             }
             ans.add(maxValue);
         }
-        return ans;
+        return ans;     
     }
 }
