@@ -1,19 +1,21 @@
 class Solution {
+    List<String> ans = new ArrayList<>();
+
     public List<String> generateParenthesis(int n) {
-        ArrayList<String> ans = new ArrayList<>();
-        dfs(0 , 0 ,n, "" ,ans);
+        dfs(0, 0, n, "");
         return ans;
     }
-    public void dfs(int openP , int closeP , int n,String current , ArrayList<String> ans ){
-        if(openP == closeP && closeP+openP == 2*n){
+
+    public void dfs(int close, int open, int n, String current) {
+        if (close == open && close + open == 2 * n) {
             ans.add(current);
-            return ;
+            return;
         }
-        if(openP<n){
-            dfs(openP+1 , closeP , n , current+"(" , ans);
+        if (open < n) {
+            dfs(close, open + 1, n, current + "(");
         }
-        if(closeP<openP){
-            dfs(openP , closeP+1 , n , current+")" , ans);
+        if (close < open) {
+            dfs(close + 1, open, n, current + ")");
         }
     }
 }
