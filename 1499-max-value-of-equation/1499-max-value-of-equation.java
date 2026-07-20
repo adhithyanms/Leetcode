@@ -1,17 +1,17 @@
 class Pair {
-    int val;
     int row;
+    int val;
 
-    Pair(int val, int row) {
-        this.val = val;
+    Pair(int row, int val) {
         this.row = row;
+        this.val = val;
     }
 }
 
 class Solution {
     public int findMaxValueOfEquation(int[][] points, int k) {
+        int ans = Integer.MIN_VALUE;
         PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> b.val - a.val);
-        int max = Integer.MIN_VALUE;
         for (int point[] : points) {
             int rowi = point[0];
             int coli = point[1];
@@ -19,10 +19,10 @@ class Solution {
                 pq.poll();
             }
             if (!pq.isEmpty()) {
-                max = Math.max(max, pq.peek().val + rowi + coli);
+                ans = Math.max(ans, rowi + coli + pq.peek().val);
             }
-            pq.offer(new Pair(coli - rowi, rowi));
+            pq.offer(new Pair(rowi, coli-rowi));
         }
-        return max;
+        return ans;
     }
 }
