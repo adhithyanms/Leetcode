@@ -74,6 +74,7 @@ Solution for Leetcode Problem
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/adhithyanms/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adhithyanms/Leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhithyanms/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3429-special-array-i](https://github.com/adhithyanms/Leetcode/tree/master/3429-special-array-i) |
@@ -434,6 +435,7 @@ Solution for Leetcode Problem
 | [0136-single-number](https://github.com/adhithyanms/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/adhithyanms/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adhithyanms/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adhithyanms/Leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +484,7 @@ Solution for Leetcode Problem
 | [1732-find-the-highest-altitude](https://github.com/adhithyanms/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2439-minimize-maximum-of-array](https://github.com/adhithyanms/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/adhithyanms/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adhithyanms/Leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,6 +498,7 @@ Solution for Leetcode Problem
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adhithyanms/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adhithyanms/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adhithyanms/Leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +514,7 @@ Solution for Leetcode Problem
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adhithyanms/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adhithyanms/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/adhithyanms/Leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhithyanms/Leetcode/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
