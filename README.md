@@ -35,6 +35,7 @@ Solution for Leetcode Problem
 | [0496-next-greater-element-i](https://github.com/adhithyanms/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/adhithyanms/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/adhithyanms/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0648-replace-words](https://github.com/adhithyanms/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -226,6 +227,7 @@ Solution for Leetcode Problem
 | [0179-largest-number](https://github.com/adhithyanms/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/adhithyanms/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/adhithyanms/Leetcode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -318,6 +320,7 @@ Solution for Leetcode Problem
 | [0227-basic-calculator-ii](https://github.com/adhithyanms/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/adhithyanms/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/adhithyanms/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/adhithyanms/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adhithyanms/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adhithyanms/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
