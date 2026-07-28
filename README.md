@@ -49,6 +49,7 @@ Solution for Leetcode Problem
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1260-shift-2d-grid](https://github.com/adhithyanms/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/adhithyanms/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -232,6 +233,7 @@ Solution for Leetcode Problem
 | [0792-number-of-matching-subsequences](https://github.com/adhithyanms/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/adhithyanms/Leetcode/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/adhithyanms/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/adhithyanms/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adhithyanms/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/adhithyanms/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -455,6 +457,7 @@ Solution for Leetcode Problem
 | [0692-top-k-frequent-words](https://github.com/adhithyanms/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/adhithyanms/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adhithyanms/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adhithyanms/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1499-max-value-of-equation](https://github.com/adhithyanms/Leetcode/tree/main/1499-max-value-of-equation/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/adhithyanms/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2762-continuous-subarrays](https://github.com/adhithyanms/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
