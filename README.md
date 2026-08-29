@@ -140,6 +140,7 @@ Solution for Leetcode Problem
 | [1729-find-followers-count](https://github.com/adhithyanms/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/adhithyanms/Leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/adhithyanms/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/adhithyanms/Leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/adhithyanms/Leetcode/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
