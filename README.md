@@ -704,4 +704,8 @@ Solution for Leetcode Problem
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/adhithyanms/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/adhithyanms/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
