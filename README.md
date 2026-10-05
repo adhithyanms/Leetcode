@@ -708,4 +708,5 @@ Solution for Leetcode Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/adhithyanms/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/adhithyanms/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
